@@ -32,7 +32,7 @@ THEN the saved events persist
 ```
 ## Usage
 click this link to access the deployed page: https://rktvpr.github.io/Ricks-work-day-scheduler/
-![alt text](/images/Weather-app.png)
+![alt text](/images/scheduler.png)
 
 ## Credits
 Rick Welte UPENN tutors and instructors
